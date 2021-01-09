@@ -1,0 +1,3 @@
+这个模块的目的是建立一个可以被别人以URL的形式导入的模块
+所以在最开始的时候使用go mod init example.com/greetings来新建mod文件
+example.com/greeting也是模块路径，只不过是可以被其他人导入的模块路径
