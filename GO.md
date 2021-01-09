@@ -42,7 +42,7 @@
 
    * 然后打开VScode，command+shift+p，搜索**\>go:install**，全选，确定，等待安装结束
 
-     ![image-20210109145634385](/Users/a1466055840/Library/Application Support/typora-user-images/image-20210109145634385.png)
+     <img src="images/p2.png" alt="image-20210109160407396" style="zoom:50%;" />
 
 
 
@@ -54,7 +54,7 @@
 
 1. 当你从其他模块导入package时，这个文件就会被创建，它包括**模块名，go版本，需要的特殊外部模块版本(published)，以及本地模块的位置替换(replace)**
 
-<img src="/Users/a1466055840/Library/Application Support/typora-user-images/image-20210109160407396.png" alt="image-20210109160407396" style="zoom:50%;" />
+<img src="images/p1.png" alt="image-20210109160407396" style="zoom:50%;" />
 
 2. 你也可以自己创建一个.mod文件
 
